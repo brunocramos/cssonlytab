@@ -4,6 +4,7 @@ CSS Only Tab Navigation
 A simple tab navigation made with pure CSS, with no Javascript required.
 
 The idea here is pretty simple:
+
 1. We needed an element with two different states;
 2. These states must managable through CSS => a simple radio input!
 3. Each radio will represent a tab
