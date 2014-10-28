@@ -14,3 +14,8 @@ With that in mind, a simple tab navigation is born using radio input and its :ch
 For accessibility purposes, we can highlight the tab labels when an input is on focus, allowing the user to navigate using keyboard arrows.
 
 Take a look and feel free to use it!
+
+## Changelog
+
+- (2014-10-08) *v1.0* - First Version 
+
