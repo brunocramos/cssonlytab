@@ -15,6 +15,9 @@ For accessibility purposes, we can highlight the tab labels when an input is on 
 
 Take a look and feel free to use it!
 
+## Preview
+http://htmlpreview.github.io/?https://github.com/brunocramos/cssonlytab/blob/master/index.html
+
 ## Changelog
 
 - (2014-10-08) *v1.0* - First Version 
